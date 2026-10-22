@@ -1,0 +1,4 @@
+Model,Feature_Set,Test_AUC,Test_Accuracy,Training_Pseudo_R2
+Logistic Regression,Numeric core,0.5305250343169834,0.823608316566063,0.006695230211871905
+Random Forest,Numeric core + TF-IDF,0.5327331225659787,0.823608316566063,
+Always Poster,No features,0.5,0.824279007377599,

@@ -1,0 +1,12 @@
+Variable,Coef,Odds_Ratio,P_value,Significance
+const,-1.5615,0.2098,0.0,***
+word_count,0.0731,1.0758,0.2111,
+sent_count,-0.1342,0.8744,0.0225,**
+pos_score,0.0338,1.0344,0.4036,
+neg_score,-0.1135,0.8927,0.0074,***
+certainty,0.0289,1.0293,0.3967,
+achievement,0.0339,1.0344,0.4105,
+promotional_ratio,-0.0715,0.931,0.0965,*
+max_h_index,0.0193,1.0195,0.7493,
+avg_citations,0.006,1.006,0.9193,
+author_count,0.1129,1.1195,0.0021,***
