@@ -1,0 +1,18 @@
+# Local environments and notebook caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Raw data and credentials must stay local
+data/
+iclr_cleaned_v1_20250322.csv
+.env
+.env.*
+*.pem
+*.key
+# Rerun outputs are local; curated aggregate artifacts live in reports/
+results/
+*.log
+
+.validation-*/
